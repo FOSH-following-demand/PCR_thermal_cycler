@@ -1,2 +1,2 @@
 # PCR_thermal_cycler
-We are a team of 4 from the University of Sussex (UK) designing and building a PCR thermal cycler
+We are a team of 4 from the University of Sussex (UK) developing a PCR thermal cycler
